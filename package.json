@@ -1,0 +1,40 @@
+{
+  "name": "bill-of-lading-demo",
+  "description": "A Web-based Demonstration of Blockchain Bill of Lading Concepts.",
+  "author": {
+    "name": "Mark Shope"
+  },
+  "version": "0.0.1",
+  "keywords": [
+    "public key",
+    "private key",
+    "demo",
+    "smart contracts",
+    "bill of lading"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markshope/bill-of-lading-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/markshope/bill-of-lading-demo/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.2",
+    "body-parser": "~1.15.2",
+    "cookie-parser": "^1.4.3",
+    "debug": ">=2.6.9",
+    "express": "^4.13.4",
+    "morgan": ">=1.9.1",
+    "pug": "^2.0.4",
+    "serve-favicon": "^2.3.0"
+  },
+  "homepage": "https://github.com/markshope/bill-of-lading-demo#readme",
+  "maintainers": [
+    {
+      "name": "Mark Shope",
+      "email": "markshope@gmail.com"
+    }
+  ]
+}
