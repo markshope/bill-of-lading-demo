@@ -27,7 +27,7 @@
     "debug": ">=2.6.9",
     "express": "^4.17.3",
     "morgan": ">=1.9.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "serve-favicon": "^2.3.0"
   },
   "homepage": "https://github.com/markshope/bill-of-lading-demo#readme",
